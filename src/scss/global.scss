@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply border-8;
+    @apply border-black;
+    @apply min-h-screen;
+}

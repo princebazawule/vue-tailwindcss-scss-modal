@@ -1,4 +1,4 @@
-# vue-modal
+# vue-tailwindcss-scss-modal
 
 ## Project setup
 ```
